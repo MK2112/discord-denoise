@@ -14,9 +14,16 @@ This script keeps your Discord cleaner - **without blocking or muting friends.**
 - If DMs are **open**: their game status shows normally
 - You control who you care to see, one click at a time
 
+```
+discord-denoise/
+├── discord-denoise.js  # Main userscript file
+├── README.md           # This file
+└── LICENSE             # MIT License
+```
+
 ## Features
 
-- Hides game/activity status ("Playing X") from user popouts and profile cards
+- Hides game/activity status ("Playing XYZ") from user popouts and profile cards
 - Respects your attention: shows status if DMs are open
 - Works automatically in the background
 - Lightweight and non-intrusive
