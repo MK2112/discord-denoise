@@ -20,6 +20,7 @@ thincord/
 ## Features
 
 - Hides game/activity status (`"Playing XYZ"`) from user popouts and profile cards
+- Always hides all profile animations for all users, all the time
 - Respects your attention: shows status if DMs are open
 - Works automatically in the background
 - Lightweight and non-intrusive
