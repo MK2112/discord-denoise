@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name            Discord Denoise
+// @name            Thincord
 // @description     Hides the gaming/music status of Discord users unless you have DMs open with them. Always hides avatar decorations.
 // @version         1.0.1
 // @author          MK2112
-// @namespace       https://github.com/MK2112/discord-denoise
-// @supportURL      https://github.com/MK2112/discord-denoise/issues
+// @namespace       https://github.com/MK2112/thincord
+// @supportURL      https://github.com/MK2112/thincord/issues
 // @license         MIT
 // @match           *://discord.com/*
 // @run-at          document-start
